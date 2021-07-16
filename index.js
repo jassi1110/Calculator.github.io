@@ -22,6 +22,7 @@ for (item of buttons) {
         else if (buttonText == '=') {
             history.innerText = ''
             screen.innerText = eval(screenValue);
+            screenValue = screen.innerText
         }
         
         else {
