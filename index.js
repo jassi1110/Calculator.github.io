@@ -33,6 +33,7 @@ for (item of buttons) {
             console.log(n)
             screenValue = screenValue.slice(0,n-1)
             screen.innerText = screenValue
+            history.innerText = screenValue
             // console.log(str)
         }
         
