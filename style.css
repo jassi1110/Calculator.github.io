@@ -1,6 +1,6 @@
 /* @import url('/background.jpg'); */
 body{
-    background-image: url("/background.jpg");
+    background-image: url("https://html.sammy-codes.com/images/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
